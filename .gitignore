@@ -4,8 +4,10 @@
 *.bin 
 *.asm 
 *.rel 
+*.hex
 *.o 
 *.sym 
+*.ihx
 *.lst 
 *.rst
 .DS_Store
